@@ -8,10 +8,10 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+The required libraries and their versions are specified in the follow file.
 
 ```
-The required libraries and their versions are specified in the requirements.txt file.
+requirements.txt
 ```
 
 
