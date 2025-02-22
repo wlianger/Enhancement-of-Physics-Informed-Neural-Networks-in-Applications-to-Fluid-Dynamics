@@ -17,6 +17,6 @@ requirements.txt
 
 ## Other
 
-Two project folders correspond to two cases respectively, and each case contains instances of different algorithms. You can create datasets according to your own needs and then conduct code testing.
+Two project folders correspond to two cases respectively. Each case contains instances of different algorithms. You can create datasets according to your own needs and then conduct code testing. More details may be added later.
 
 
